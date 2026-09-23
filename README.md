@@ -31,7 +31,6 @@ inicio
       escreval("")
       sistema <- falso
       logado <- verdadeiro //Quebra de login(Infinito)---
-
       // Para Login incorreto---
     senao
       limpatela
